@@ -1,0 +1,141 @@
+.scroll-pane {
+    -fx-background: transparent;
+}
+
+.label {
+    -fx-font-family: Verdana;
+    -fx-font-weight: bold;
+    -fx-font-size: 18;
+    -fx-text-alignment: center;
+    -fx-text-fill: white;
+}
+
+.button {
+    -fx-font-size: 12;
+    -fx-min-width: 70;
+    -fx-min-height: 20;
+    -fx-background-color: #606060;
+    -fx-text-fill: white;
+}
+
+.root {
+    -fx-background-color: #27242d;
+}
+
+.cardtitle {
+    -fx-font-size: 24;
+}
+
+.cardbody {
+    -fx-font-size: 14;
+    -fx-text-alignment: center;
+}
+
+.rectangle1 {
+    -fx-arc-width: 25;
+    -fx-arc-height: 25;
+    -fx-fill: #aa84dc;
+}
+
+.cardtext1 {
+    -fx-fill: black;
+}
+
+.rectangle2 {
+    -fx-arc-width: 25;
+    -fx-arc-height: 25;
+    -fx-fill: #412472;
+}
+
+.cardtext2 {
+    -fx-fill: white;
+}
+
+.buttons {
+    -fx-spacing: 15;
+    -fx-alignment: center;
+}
+
+.button {
+    -fx-pref-width: 100;
+}
+
+.titlefont {
+    -fx-fill: white;
+    -fx-font-size: 48;
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+}
+
+.subtitlefont {
+    -fx-fill: white;
+    -fx-font-size: 24;
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+}
+
+.bodyfont {
+    -fx-fill: white;
+    -fx-font-size: 18;
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+}
+
+.cardpadding {
+    -fx-padding: 0 0 20 0;
+}
+
+.contentpadding {
+    -fx-padding: 7;
+}
+
+.cardlist {
+    -fx-vgap: 50;
+    -fx-hgap: 50;
+    -fx-background-color: transparent;
+}
+
+.scroller {
+    -fx-background-color: transparent;
+    -fx-background: transparent;
+    -fx-fit-to-width: true;
+    -fx-fit-to-height: true;
+    -fx-hbar-policy: never;
+    -fx-vbar-policy: never;
+}
+
+.gamepage {
+    -fx-padding: 0 0 20 0;
+}
+
+.pane {
+    -fx-background-color: transparent;
+    -fx-background: transparent;
+}
+
+.commentbox {
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-padding: 5 5 5 5;
+    -fx-background-color: #27242d;
+    -fx-control-inner-background: #696176;
+    -fx-text-fill: white;
+    -fx-alignment: center;
+}
+
+.ratingpadding {
+    -fx-padding: 0 0 20 0;
+}
+
+.borderpadding {
+    -fx-padding: 20;
+}
+
+.gamepageratingbody {
+    -fx-fill: white;
+    -fx-font-size: 18;
+}
+
+.refreshspacing {
+    -fx-padding: 590 15 0 0;
+}
